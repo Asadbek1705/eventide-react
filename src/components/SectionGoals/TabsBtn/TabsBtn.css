@@ -1,0 +1,14 @@
+.tabs-btn {
+  padding: 26px;
+  color: rgb(171, 177, 186);
+  background-color: rgb(236, 236, 236);
+  font-size: 18px;
+  font-family: "Ubuntu", sans-serif;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.tabs-btn.active {
+  background-color: #fff;
+  color: rgb(144, 151, 161);
+}

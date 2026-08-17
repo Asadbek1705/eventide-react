@@ -1,0 +1,23 @@
+.register-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  gap: 6px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #6a7079;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  transition: background-color 0.4s ease;
+}
+.register-btn:hover {
+  background-color: rgb(126, 164, 232);
+}
+.register-btn:active {
+  opacity: 0.8;
+}
